@@ -8,3 +8,5 @@ Webhooks
 PenguinBot
 Pluto
 Proot
+Amethyst
+ImageBot
