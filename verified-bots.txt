@@ -1,5 +1,4 @@
 UltimateBot
-FBI
 PenguinBot
 yourmother
 APIBot
@@ -11,3 +10,4 @@ Proot
 Amethyst
 ImageBot
 MDWalters125
+MDBot
